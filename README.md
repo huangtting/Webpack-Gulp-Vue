@@ -17,7 +17,7 @@ gulp
 ```
 
 # 项目结构
-
+```
 ├─dist 这里存放webpack打包后的文件
 ├─docs 存放文档
 ├─index.html 挂载的html文件，webpack4约定将index.html放在这里
@@ -42,3 +42,4 @@ gulp
     │─view 业务组件 一般与路由挂钩
     ├─App.vue 
     └─index.js  webpack4约定将index.js放在这里   
+```
